@@ -53,8 +53,8 @@ router.post('/send', async (req, res) => {
     sendMail({
       from: emailFrom,
       to: emailTo,
-      subject: 'You recieved a Nude!',
-      text: `${emailFrom} shared a nude with you.`,
+      subject: 'You recieved a File!',
+      text: `${emailFrom} shared a file with you.`,
       html: require('../services/emailTemplate')({
                 emailFrom, 
                 downloadLink: `${process.env.APP_BASE_URL}/files/${file.uuid}`,
