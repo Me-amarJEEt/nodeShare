@@ -13,15 +13,14 @@
 
 
 ## Summary
-Node Share is a user-friendly file sharing platform built to simplify the process of sharing files effortlessly. It leverages a stack of modern technologies to provide a seamless and reliable experience for users seeking to share files with ease.
-
+Node Share is a user-friendly file-sharing platform built to simplify the process of sharing files effortlessly. It leverages a stack of modern technologies to provide a seamless and reliable experience.
 
 
 ## Key Features:
 
-### Uploads File
-### A sharable link is generated 
-### Download from the link 
+## Uploads File
+## A sharable link is generated 
+#### Download from the link 
 ### Or send the file directly to the receiver mailbox.
 
 ---
