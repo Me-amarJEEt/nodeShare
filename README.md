@@ -24,6 +24,6 @@ Node Share is a user-friendly file-sharing platform built to simplify the proces
 * Or send the file directly to the receiver mailbox.
 
 ---
-Start sharing files the easy way with Node Share! Visit live platform [here](https://quick-share-geui.onrender.com/)
+Start sharing files the easy way with Node Share! Visit live platform [here](https://quick-share-geui.onrender.com/){:target="_blank"}
 
 
